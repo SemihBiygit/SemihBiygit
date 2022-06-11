@@ -1,8 +1,15 @@
-### Hi👋, I am Semih
+<h1 align="center">Hi 👋, I'm Semih</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=semihbiygit&label=Profile%20views&color=0e75b6&style=flat" alt="semihbiygit" /> </p>
 
-- 🌱 I’m currently learning Java 
+<p align="left"> <a href="https://twitter.com/semihbiygit" target="blank"><img src="https://img.shields.io/twitter/follow/semihbiygit?logo=twitter&style=for-the-badge" alt="semihbiygit" /></a> </p>
 
+- 🌱 I’m currently learning **Java**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/semihbiygit)  [<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/semihbiygit/)  [<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg' alt='twitter' height='40'>](https://twitter.com/semihbiygit)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/semihbiygit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="semihbiygit" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/semihbiygit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="semihbiygit" height="30" width="40" /></a>
+</p>
 
-![Profile views](https://gpvc.arturio.dev/semihbiygit)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
