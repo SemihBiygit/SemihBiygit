@@ -1,6 +1,6 @@
 ### Hi👋, I am Semih
 
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning Java☕
 
 
 
