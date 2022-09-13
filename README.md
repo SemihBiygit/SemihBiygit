@@ -22,16 +22,16 @@
 ###
 
 <div align="left">
-  <a href="linkedin.com/semihbiygit" target="_blank">
+  <a href="https://linkedin.com/semihbiygit" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="semihbiygit@gmail.com" target="_blank">
+  <a href="semihbiygit@gmail.com" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="twitter.com/semihbiygit" target="_blank">
+  <a href="https://twitter.com/semihbiygit" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="instagram.com/semihbiygit" target="_blank">
+  <a href="https://instagram.com/semihbiygit" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
