@@ -36,12 +36,5 @@
   </a>
 </div>
 
-###
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=semihBiygit.semihBiygit&right_color=darkcyan&left_text=Profile visitors"  />
-</div>
-
-###
 
 ![Profile views](https://gpvc.arturio.dev/semihbiygit)  
