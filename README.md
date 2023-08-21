@@ -19,6 +19,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" width="55" alt="git logo"  />
 </div>
 
+<br>
+<br>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/semihbiygit" target="blank">
