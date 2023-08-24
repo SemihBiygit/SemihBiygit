@@ -5,19 +5,36 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" width="55" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" width="55" alt="spring logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" width="55" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" width="55" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="35" width="55" alt="gradle logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="35" width="55" alt="redis logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="35" width="55" alt="kubernetes logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="35" width="55" alt="kubernetes logo"  />
+    <a href="https://dev.java">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" width="55" alt="java logo"  />
+    </a>
+    <a href="https://spring.io">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" width="55" alt="spring logo"  />
+    </a>
+    <a href="https://www.postgresql.org/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" width="55" alt="postgresql logo"  />
+    </a>
+    <a href="https://www.mongodb.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" width="55" alt="mongodb logo"  />
+    </a>
+    <a href="https://redis.io/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="35" width="55" alt="redis logo"  />
+    </a>
+    <a href="https://www.docker.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="35" width="55" alt="docker logo"  />
+    </a>
+    <a href="https://www.kubernetes.io/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="35" width="55" alt="kubernetes logo"  />
+    </a>
+    <a href="https://gradle.org/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="35" width="55" alt="gradle logo"  />
+    </a>
+  </div>
 
 <br>
 <br>
+
 <h3 align="left">Get in Touch With Me!</h3>
-
 
 <div align="left">
   <a href="https://www.linkedin.com/in/semihbiygit" target="blank">
@@ -31,4 +48,5 @@
 </div>
 
 ###
+
 <br>
