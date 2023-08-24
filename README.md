@@ -15,6 +15,8 @@
 
 <br>
 <br>
+<h3 align="left">Get in Touch With Me!</h3>
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/semihbiygit" target="blank">
