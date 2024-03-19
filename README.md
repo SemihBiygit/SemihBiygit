@@ -26,9 +26,6 @@
     <a href="https://www.kubernetes.io/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" width="55" alt="kubernetes logo"  />
     </a>
-    <a href="https://gradle.org/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="40" width="55" alt="gradle logo"  />
-    </a>
   </div>
 
 <br>
